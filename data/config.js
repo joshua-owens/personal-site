@@ -9,7 +9,6 @@ module.exports = {
 		github: 'https://github.com/joshua-owens',
 		linkedin: 'https://www.linkedin.com/in/joshuasowens',
 	},
-	googleAnalyticsID: 'UA-88875900-4',
 	themeColor: '#6b63ff',
 	backgroundColor: '#6b63ff',
 	address: {
