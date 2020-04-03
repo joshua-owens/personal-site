@@ -1,7 +1,5 @@
-import About from './about';
-import Welcome from './welcome';
+import Home from './home';
 
 export {
-  About,
-  Welcome,
+  Home,
 };
