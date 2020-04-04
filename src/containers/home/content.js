@@ -5,7 +5,7 @@ const content = {
   subtitle: 'Full Stack Developer',
   links: [
     {
-      to: 'https://github.com/joshuaowens',
+      to: 'https://github.com/joshua-owens',
       text: '',
       Icon: FaGithub,
       newTab: true,
